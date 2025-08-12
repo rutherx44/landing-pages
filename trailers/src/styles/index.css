@@ -114,7 +114,7 @@ html {
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #4D0407;
+  background: #320506;
 }
 
 @media (min-width: 768px)  {
