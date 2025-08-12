@@ -21,12 +21,6 @@ const Footer = () => {
                 href="/"
                 className="hover:text-primaborder-primary transition-all cursor-pointer"
               >
-                Browse
-              </a>
-              <a
-                href="/"
-                className="hover:text-primaborder-primary transition-all cursor-pointer"
-              >
                 Movies
               </a>
               <a
