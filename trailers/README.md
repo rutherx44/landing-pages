@@ -22,7 +22,7 @@
 
 <i>A raw idea is complex but by having collaboration with us, the experts. it can be refined or simplified.</i>
 
-Press `CTRL` + Click this [Link](https://www.figma.com/design/DCHT57Zu2XXnbkhPQ0mzsk/Trailer-Landing-Page?node-id=2-2&t=ORuq890Mp04XKY3Y-1) to see the **_Mock-up file_**.
+Press `CTRL` + Click this [Link](https://www.figma.com/design/DCHT57Zu2XXnbkhPQ0mzsk/Trailer-Landing-Page?node-id=2-3&t=ORuq890Mp04XKY3Y-1) to see the **_Mock-up file_**.
 
 Press `CTRL` + Click this [Link](tailers-landing-page.vercel.app) to see the **_Live Demo_**.
 
