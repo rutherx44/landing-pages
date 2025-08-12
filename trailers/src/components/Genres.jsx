@@ -1,6 +1,6 @@
 import React from "react";
 import { useQuery } from "@tanstack/react-query";
-import { fetchGenres } from "../api/tmdb";
+import { fetchGenres } from "../api/TMDB";
 import Loading from "./Loading";
 
 import { Swiper, SwiperSlide } from "swiper/react";
