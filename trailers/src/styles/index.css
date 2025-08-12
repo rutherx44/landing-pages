@@ -1,0 +1,114 @@
+@import "tailwindcss";
+
+@theme {
+  /* website font sytle */
+  --font-poppins: "Poppins", sans-serif;
+  --font-roboto: "Roboto", sans-serif;
+
+  /* website color sytle */
+  --color-primary: #E50914;
+  --color-bg: #080101;
+  --color-button: #B60A11;
+  --color-bg-button: #320506;
+  --color-main: #FFFFFF;
+  --color-sub: #ADADAD;
+}
+
+:root, body {
+  background-color: var(--color-bg);
+  color: var(--color-main);
+  font-family: var(--font-poppins);
+  font-size: 1rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.red {
+  border: 1px solid red;
+}
+
+.blue {
+  border: 1px solid blue;
+}
+
+.logo {
+  @apply w-[8.125rem] h-6 md:w-[10.25rem] md:h-[1.875rem] xl:w-[11.5rem] xl:h-[2.125rem] cursor-pointer transition-all
+}
+
+.icons {
+  @apply w-8 h-8 cursor-pointer
+}
+
+.navlink {
+  @apply font-semibold text-lg tracking-wide cursor-pointer
+}
+
+.hover-red {
+  @apply hover:text-[#E50914] transition-all
+}
+
+.spinner {
+  border: 8px solid #320506;
+  border-top: 8px solid #E50914;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 1.5s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.swiper-carousel {
+  width: 100% !important;
+  display: flex !important;
+  z-index: 20px;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #E50914 !important;
+}
+
+.swiper-pagination-bullet {
+  width: 20px !important;
+  height: 4px !important;
+  border-radius: 6px !important;
+  margin: 0 2px 0 0 !important;
+  background-color: rgba(182, 10, 17, 25) !important;
+}
+
+.swiper-pagination-horizontal {
+  display: flex;
+  justify-content: center;
+  height: fit-content;
+  bottom: 120px !important;
+}
+
+@media (min-width: 768px)  {
+  .swiper-pagination-horizontal {
+      justify-content: end;
+      padding-right: 32px
+    }
+}
+
+@media (min-width: 1024px) {
+  .swiper-pagination-bullet {
+      width: 28px !important;
+      height: 4px !important;
+    }
+
+  .swiper-pagination-horizontal {
+    justify-content: end;
+    padding-right: 64px;
+    bottom: 176px !important;
+  }
+}
