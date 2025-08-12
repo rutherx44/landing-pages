@@ -5,7 +5,7 @@ import { Rating } from "./Ratings";
 import { Dot, Play } from "lucide-react";
 import dayjs from "dayjs";
 import Loading from "./Loading";
-import { BASE_URL, fetchGenres, IMAGE_BASE, options } from "../api/tmdb";
+import { BASE_URL, fetchGenres, IMAGE_BASE, options } from "../api/TMDB";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";

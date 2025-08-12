@@ -5,7 +5,7 @@ import { Dot, Info } from "lucide-react";
 import dayjs from "dayjs";
 import Button from "./Button";
 import Loading from "./Loading";
-import { BASE_URL, fetchGenres, options } from "../api/tmdb";
+import { BASE_URL, fetchGenres, options } from "../api/TMDB";
 
 const Trailers = () => {
   const { data, isLoading, error } = useQuery({
