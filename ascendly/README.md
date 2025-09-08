@@ -1,12 +1,103 @@
-# React + Vite
+<h3 align="center" style="font-family: Alfa Slab One; font-size: 80px; letter-spacing: 2px;">
+  
+  Ascendly
+</h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<br/>
 
-Currently, two official plugins are available:
+## 💻 Technologies 💻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Category        | Technology                                                                                                      |
+| --------------- | --------------------------------------------------------------------------------------------------------------- |
+| Frontend        | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,vite,tailwind&titles=true" /> |
+| Design          | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps&titles=true" />                                |
+| Version Control | <img src="https://go-skill-icons.vercel.app/api/icons?i=git&titles=true" />                                     |
+| Deployment      | <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&titles=true" />                                  |
+|                 |                                                                                                                 |
 
-## Expanding the ESLint configuration
+<br/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔍 Preview 🔍
+
+<i>A raw idea is complex but by having collaboration with us, the experts. it can be refined or simplified.</i>
+
+Press `CTRL` + Click this [Link](https://www.figma.com/design/WxMycqKsbVtKD4s6jUnV4J/Ascendly-Landing-Page?node-id=6-55&t=0BWI6NMjls8Tvucx-1) to see the **_Mock-up file_**.
+
+Press `CTRL` + Click this [Link](https://ascendly-landing-page.vercel.app) to see the **_Live Demo_**.
+
+![Project Screenshot](public/preview.png)
+
+<br/>
+
+## ⚙️ Prerequisites ⚙️
+
+Before you begin, make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- Git
+
+<br/>
+
+## 🛠️ Installation 🛠️
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rutherx44/landing-pages.git
+cd landing-pages
+cd ascendly
+code . # open the current directory.
+```
+
+Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+<br/>
+
+## ▶️ Usage ▶️
+
+To start the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+To build for production:
+
+```bash
+npm run build
+# or
+yarn build
+```
+
+<br/>
+
+## 📬 Contact 📬
+
+For questions or feedback, feel free to reach out:
+
+<div>
+  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:ruther.diox04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://dribbble.com/rthrx44" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.behance.net/rutherdio" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://ruther-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=producthunt&logoColor=white" target="_blank" />
+  </a>
+</div>
