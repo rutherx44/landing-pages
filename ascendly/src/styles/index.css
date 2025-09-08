@@ -65,7 +65,7 @@ html {
   @apply h-auto max-w-[100px] md:max-w-[200px] lg:max-w-[300px] object-cover
 }
 
-.bg_blur {
+.bgblur {
   background: rgba(36, 16, 35, .70);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(12.4px);

@@ -8,7 +8,7 @@ const Accordion = ({ title, answer }) => {
     <div className="container font-lato py-2">
       <button
         onClick={() => setAccordionOpen(!accordionOpen)}
-        className="flex items-center justify-between w-full"
+        className="flex items-center justify-between w-full cursor-pointer"
       >
         <span className="title uppercase font-bold">{title}</span>
         <ChevronDown

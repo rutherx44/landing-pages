@@ -3,7 +3,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="sticky inset-0 z-50 flex items-center justify-between mx-auto bg_blur px-4 py-5 md:px-[30px] md:py-6 lg:px-8 lg:py-[30px] transition-all">
+    <nav className="sticky inset-0 z-50 flex items-center justify-between mx-auto bgblur px-4 py-5 md:px-[30px] md:py-6 lg:px-8 lg:py-[30px] transition-all">
       <a href="/" className="cursor-pointer">
         <p className="text-base md:text-2xl lg:text-[32px]">Ascendy</p>
       </a>
