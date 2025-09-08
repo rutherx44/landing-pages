@@ -8,7 +8,7 @@ const FAQ = () => {
         <div className="text-center">
           <h1 className="display_text">faq</h1>
         </div>
-        <div className="md:px-[60px] lg:px-[100px] z-50">
+        <div className="md:px-[60px] lg:px-[100px] z-30">
           <Accordion
             title="Is this really free?"
             answer="Yes! This webinar is completely free. We believe in providing massive value upfront to help you succeed."

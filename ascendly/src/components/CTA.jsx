@@ -44,7 +44,7 @@ export const CTA2 = () => {
               <br />
               Miss Out!
             </h1>
-            <p className="font-lato text-[#3D173A]/60 font-semibold tracking-tighter description">
+            <p className="font-lato text-[#3D173A]/60 font-semibold tracking-widest description">
               Don’t miss this opportunity, Reserve your free seat today.
             </p>
           </div>
