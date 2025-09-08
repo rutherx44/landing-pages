@@ -1,6 +1,6 @@
-<h3 align="center" style="font-family: Alfa Slab One; font-size: 80px; letter-spacing: 2px;">
+<h3 align="center">
   
-  Ascendly
+  ![Project Screenshot](src/assets/logo.png)
 </h3>
 
 <br/>
