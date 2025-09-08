@@ -97,7 +97,7 @@ For questions or feedback, feel free to reach out:
   <a href="https://www.behance.net/rutherdio" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ruther-portfolio.vercel.app/" target="_blank">
+<!--   <a href="https://ruther-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=producthunt&logoColor=white" target="_blank" />
-  </a>
+  </a> -->
 </div>
