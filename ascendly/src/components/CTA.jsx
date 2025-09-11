@@ -9,7 +9,7 @@ export const CTA1 = () => {
   return (
     <>
       <section className="mt-[60px] md:mt-20 lg:mt-[100px] mx-auto flex flex-col gap-[30px] md:gap-10 lg:gap-[50px] transition-all">
-        <div className="flex flex-col items-center justify-center py-[100px] md:py-[140px] lg:py-[180px]">
+        <div className="flex flex-col items-center justify-center">
           <img src={gradient} alt="gradient" className="z-0 absolute" />
           <div className="z-20 container flex flex-col gap-2 md:gap-2.5 lg:gap-3">
             <Countdown />

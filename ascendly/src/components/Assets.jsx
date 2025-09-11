@@ -94,7 +94,7 @@ export const Vector2 = () => {
     <img
       src={vector2}
       alt="vector2"
-      className="absolute h-[3vw] max-h-3 max-w-12 -right-1 lg:right-0"
+      className="absolute h-[2vw] max-h-3 max-w-10 -right-1.5 lg:max-w-14"
     />
   );
 };
