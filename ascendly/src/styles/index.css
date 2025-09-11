@@ -42,7 +42,7 @@ html {
 }
 
 .title {
-  @apply text-xs md:text-sm lg:text-base
+  @apply uppercase text-xs md:text-sm lg:text-base
 }
 
 .description {

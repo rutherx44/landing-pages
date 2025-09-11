@@ -21,9 +21,9 @@
 
 <i>A raw idea is complex but by having collaboration with us, the experts. it can be refined or simplified.</i>
 
-Press `CTRL` + Click this [Link](https://www.figma.com/design/WxMycqKsbVtKD4s6jUnV4J/Ascendly-Landing-Page?node-id=6-55&t=0BWI6NMjls8Tvucx-1) to see the **_Mock-up file_**.
+Press `CTRL` and Click this [Link](https://www.figma.com/design/WxMycqKsbVtKD4s6jUnV4J/Ascendly-Landing-Page?node-id=6-55&t=0BWI6NMjls8Tvucx-1) to see the `Mock-up file`.
 
-Press `CTRL` + Click this [Link](https://ascendly-landing-page.vercel.app) to see the **_Live Demo_**.
+Press `CTRL` and Click this [Link](https://ascendly-landing-page.vercel.app) to see the `Live Demo`.
 
 ![Project Screenshot](public/preview.png)
 
@@ -47,7 +47,7 @@ Clone the repository:
 git clone https://github.com/rutherx44/landing-pages.git
 cd landing-pages
 cd ascendly
-code . # open the current directory.
+code . # open the current directory on vscode.
 ```
 
 Install dependencies:
