@@ -23,7 +23,7 @@
 
 Press `CTRL` and Click this [Link](https://www.figma.com/design/WxMycqKsbVtKD4s6jUnV4J/Ascendly-Landing-Page?node-id=6-55&t=0BWI6NMjls8Tvucx-1) to see the `Mock-up file`.
 
-Press `CTRL` and Click this [Link](https://ascendly-landing-page.vercel.app) to see the `Live Demo`.
+Press `CTRL` and Click this [Link](https://ascendly-landing-page.vercel.app/) to see the `Live Demo`.
 
 ![Project Screenshot](public/preview.png)
 
