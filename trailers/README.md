@@ -24,7 +24,7 @@
 
 Press `CTRL` and Click this [Link](https://www.figma.com/design/DCHT57Zu2XXnbkhPQ0mzsk/Trailer-Landing-Page?node-id=2-3&t=ORuq890Mp04XKY3Y-1) to see the `Mock-up file`.
 
-Press `CTRL` and Click this [Link](https://tailers-landing-page.vercel.app) to see the `Live Demo`.
+Press `CTRL` and Click this [Link](https://trailers-landing-page.vercel.app/) to see the `Live Demo`.
 
 ![Project Screenshot](public/preview.png)
 
