@@ -86,19 +86,19 @@ yarn build
 For questions or feedback, feel free to reach out:
 
 <div>
-  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
   <a href="mailto:ruther.diox04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://dribbble.com/rthrx44" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/ruther-dio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.behance.net/rutherdio" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://ruther-portfolio.vercel.app/" target="_blank">
+  <a href="https://dribbble.com/rthrx44" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://rutherx44-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-84CC16?style=for-the-badge&logo=producthunt&logoColor=white" target="_blank" />
-  </a> -->
+  </a>
 </div>
